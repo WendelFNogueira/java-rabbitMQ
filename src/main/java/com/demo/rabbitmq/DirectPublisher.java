@@ -14,9 +14,9 @@ public class DirectPublisher {
 		Connection connection = factory.newConnection();
 		Channel channel = connection.createChannel();
 		
-		String message = "This is mobile";
+		String message = "This is tv";
 		
-		channel.basicPublish("Direct-Exchange", "mobile", null, message.getBytes());
+		channel.basicPublish("Direct-Exchange", "tv", null, message.getBytes());
 		
 		channel.close();
 		connection.close();

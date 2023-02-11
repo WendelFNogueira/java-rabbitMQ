@@ -1,6 +1,7 @@
 c:\java-studies\QueuePublisher\src\main\java\com\demo\rabbitmq\DirectPublisher.java
 c:\java-studies\QueuePublisher\src\main\java\com\demo\rabbitmq\FanoutPublisher.java
 c:\java-studies\QueuePublisher\src\main\java\com\demo\rabbitmq\HeadersPublisher.java
+c:\java-studies\QueuePublisher\src\main\java\com\demo\rabbitmq\RealTimeExample.java
 c:\java-studies\QueuePublisher\src\main\java\com\demo\rabbitmq\Publisher.java
 c:\java-studies\QueuePublisher\src\main\java\com\demo\rabbitmq\TopicPublisher.java
 c:\java-studies\QueuePublisher\src\main\java\com\demo\rabbitmq\Consumer.java

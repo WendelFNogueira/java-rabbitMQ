@@ -1,3 +1,4 @@
+com\demo\rabbitmq\RealTimeExample.class
 com\demo\rabbitmq\Consumer.class
 com\demo\rabbitmq\Publisher.class
 com\demo\rabbitmq\DirectConsumer.class

@@ -19,7 +19,7 @@ public class DirectConsumer {
 			String message = new String (delivery.getBody());
 			System.out.println("Message received = " + message);
 		};
-		channel.basicConsume("TV", true, deliverCallback, consumerTag -> {});
+		channel.basicConsume("mobile", true, deliverCallback, consumerTag -> {});
 	}
 
 }
