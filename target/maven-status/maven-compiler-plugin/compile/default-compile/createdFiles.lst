@@ -1,0 +1,7 @@
+com\demo\rabbitmq\Consumer.class
+com\demo\rabbitmq\Publisher.class
+com\demo\rabbitmq\DirectConsumer.class
+com\demo\rabbitmq\HeadersPublisher.class
+com\demo\rabbitmq\DirectPublisher.class
+com\demo\rabbitmq\TopicPublisher.class
+com\demo\rabbitmq\FanoutPublisher.class
